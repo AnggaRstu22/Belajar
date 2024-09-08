@@ -1,0 +1,12 @@
+h1 {
+	font-family: verdana;
+	font-size: 150px;
+	font-weight: 100%;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+p {
+	font-family: algerian;
+	line-height: 50px;
+} 
